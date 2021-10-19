@@ -1,0 +1,19 @@
+{
+    "db": {
+        "db_nm": "Library",
+        "meta_wt_ds": 0,
+        "op_k": 0,
+        "sim_ind": "cosine",
+        "threshold_ds": 0,
+        "vec_dim": 300,
+        "word_wt_ds": 0
+    },
+    "model": {
+        "init_epoch": 1,
+        "learning_rate": 0.01,
+        "prev_embed": 1,
+        "save_intermediate_node": 20,
+        "total_epoch": 100,
+        "vec_dim": 300
+    }
+}
